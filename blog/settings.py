@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-5c$!et*7f*$_)%6r(t@oohak&@d2*-)&t&8n06#_nx3+g*8c!%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['djangoprjct.herokuapp.com']
+ALLOWED_HOSTS = ['prjctdjango.herokuapp.com']
 
 
 # Application definition
@@ -85,10 +85,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         # 'NAME': BASE_DIR / 'db.sqlite3',
-        'NAME': 'dddvro7rmsdfa0',
-        'PASSWORD': '41cc73a529d20911af8f5a15b5a76ba133e7c98b78c0355062fef73bd4944614',
-        'USER': 'mzipfciekkvwur',
-        'HOST': 'ec2-52-204-14-80.compute-1.amazonaws.com'
+        'NAME': 'd8off8lgd2bth3',
+        'PASSWORD': '1d37dc83b66fb0b7db27452890b390cdc0e0f84686465b78d2ba7d5d17fd5fe2',
+        'USER': 'yuenznxqadcgmu',
+        'HOST': 'ec2-3-221-42-108.compute-1.amazonaws.com'
     }
 }
 
